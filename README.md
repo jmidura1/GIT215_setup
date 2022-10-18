@@ -1,2 +1,2 @@
-# GIT215_setup
+# git215_setup
 ## Author: Jacob Midura
